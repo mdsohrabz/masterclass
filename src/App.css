@@ -1,0 +1,10 @@
+/* App.css overriding to remain modular if needed, though most styles are in index.css */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.app-wrapper {
+  position: relative;
+  width: 100%;
+}
